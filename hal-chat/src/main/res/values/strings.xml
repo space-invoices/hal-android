@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hal_chat_load_failed">Chat could not be loaded.</string>
+    <string name="hal_chat_retry">Try again</string>
+    <string name="hal_chat_close">Close</string>
+    <string name="hal_chat_launcher">Chat</string>
+    <plurals name="hal_chat_unread">
+        <item quantity="one">%d unread reply</item>
+        <item quantity="other">%d unread replies</item>
+    </plurals>
+</resources>
