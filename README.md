@@ -29,7 +29,7 @@ Then the dependency:
 
 ```kotlin
 dependencies {
-    implementation("com.github.space-invoices.hal-android:hal-chat:0.1.0")
+    implementation("com.github.space-invoices:hal-android:0.1.0")
 }
 ```
 
